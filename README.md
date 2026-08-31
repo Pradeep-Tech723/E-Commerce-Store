@@ -1,4 +1,4 @@
-# CodeAlpha_E-commerce-Store
+E-commerce-Store
 
 A basic full-stack e-commerce web application built using **HTML, CSS, JavaScript**, and **Django**. The application allows users to browse products, view product details, add items to a shopping cart, register/login, and complete the checkout process.
 
